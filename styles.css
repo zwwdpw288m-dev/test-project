@@ -2,8 +2,8 @@
 :root {
   --paper: #fafaf8;
   --ink: #14151a;
-  --blue: #2f5bff;
-  --blue-soft: #edf1ff;
+  --blue: #1c5c3f;
+  --blue-soft: #e7f1ea;
   --slate: #6b6f76;
   --line: #dcdcd6;
   --yellow: #ffc23c;
@@ -99,7 +99,7 @@ img, svg { display: block; max-width: 100%; }
 }
 
 .btn--primary:hover {
-  background: #2249e0;
+  background: #143f2b;
   transform: translateY(-1px);
 }
 
